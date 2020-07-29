@@ -1,0 +1,27 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Lis.cpp
+  main.cpp
+D:\Programowanie Obiektowe\C++\Project1_swiat\main.cpp(5,17): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  Pozycja.cpp
+  Roslina.cpp
+  RoslinaTrujaca.cpp
+  Swiat.cpp
+D:\Programowanie Obiektowe\C++\Project1_swiat\Swiat.cpp(186,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Trawa.cpp
+  WilczeJagody.cpp
+  Wilk.cpp
+  Wydarzenia.cpp
+D:\Programowanie Obiektowe\C++\Project1_swiat\Wydarzenia.cpp(21,31): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+D:\Programowanie Obiektowe\C++\Project1_swiat\Wydarzenia.cpp(21,47): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+  Zolw.cpp
+  Zwierze.cpp
+  Generowanie kodu...
+D:\Programowanie Obiektowe\C++\Project1_swiat\Zwierze.cpp(67): warning C4715: "Zwierze::WykonajRuch”: niewszystkie ścieżki kodu zwracają wartość
+D:\Programowanie Obiektowe\C++\Project1_swiat\Pozycja.cpp(38): warning C4715: "Pozycja::GetLosowyKierunek”: niewszystkie ścieżki kodu zwracają wartość
+  Project1_swiat.vcxproj -> D:\Programowanie Obiektowe\C++\Project1_swiat\x64\Debug\Project1_swiat.exe

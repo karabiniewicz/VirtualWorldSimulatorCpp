@@ -1,0 +1,2 @@
+D:\Programowanie Obiektowe\C++\Project1_swiat\x64\Debug\Project1_swiat.exe
+D:\Programowanie Obiektowe\C++\Project1_swiat\x64\Debug\Project1_swiat.pdb
